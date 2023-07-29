@@ -39,4 +39,4 @@ Questions or feedbacks are always welcome and appreciated.💬
 
 ## GitHub Deployment Link:
 
-[![Github-link](./icons/lunch.png)](https://mackarimi.github.io/)
+[![Github-link](./icons/lunch.png)](https://mackarimi.github.io/macportfolio//)
